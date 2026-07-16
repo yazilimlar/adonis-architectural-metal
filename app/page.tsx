@@ -25,7 +25,7 @@ export default function Home() {
           </div>
           <div className="heroIdentity">
             <div className="logoStage">
-              <Image src="/brand/adonis-logo.webp" alt="Adonis Architectural Metal emblem" width={1200} height={1200} priority />
+              <Image src="/brand/adonis-logo.svg" alt="Adonis Architectural Metal emblem" width={1000} height={1000} priority />
             </div>
             <p>Precision in structure. Character in every line.</p>
           </div>
