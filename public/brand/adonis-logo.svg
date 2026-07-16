@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Adonis Architectural Metal</title>
+  <desc id="desc">A gold and charcoal architectural monogram inspired by gates, shields and ornamental metalwork.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1d08a"/><stop offset=".45" stop-color="#b67b24"/><stop offset="1" stop-color="#6e4312"/></linearGradient>
+    <linearGradient id="iron" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3b3935"/><stop offset="1" stop-color="#11110f"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-opacity=".22"/></filter>
+  </defs>
+  <g filter="url(#shadow)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M500 105 735 210v250c0 176-89 300-235 388-146-88-235-212-235-388V210z" stroke="url(#gold)" stroke-width="22"/>
+    <path d="M330 258v350M410 224v400M590 224v400M670 258v350" stroke="url(#iron)" stroke-width="18"/>
+    <path d="m330 258 80-52 90 58 90-58 80 52" stroke="url(#iron)" stroke-width="18"/>
+    <path d="M500 178 275 692M500 178l225 514M387 515h226" stroke="url(#gold)" stroke-width="38"/>
+    <path d="M222 514c-94 45-54 132 18 78 46-35 8-101-48-52-43 38-56 105-123 132M778 514c94 45 54 132-18 78-46-35-8-101 48-52 43 38 56 105 123 132" stroke="url(#gold)" stroke-width="18"/>
+    <path d="M318 595c-64 48-44 112 18 82 53-25 22-91-25-49M682 595c64 48 44 112-18 82-53-25-22-91 25-49" stroke="url(#gold)" stroke-width="16"/>
+    <path d="M455 655c0-58 90-58 90 0 0 34-45 52-45 52s-45-18-45-52Z" stroke="url(#gold)" stroke-width="14"/>
+  </g>
+  <text x="500" y="920" text-anchor="middle" font-family="Georgia,serif" font-size="92" letter-spacing="26" fill="url(#iron)">ADONIS</text>
+  <text x="500" y="970" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" letter-spacing="14" fill="#9d712f">ARCHITECTURAL METAL</text>
+</svg>
